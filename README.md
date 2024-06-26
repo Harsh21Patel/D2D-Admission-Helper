@@ -1,6 +1,6 @@
 # D2D Admission Helper
 
-![Engineering Admission Helper](./Logo.svg)
+![Engineering Admission Helper](https://raw.githubusercontent.com/Harsh21Patel/D2D-Admission-Helper/9d34ac90c2864dda251a7e573ca9e18bff0ef8f3/img/Logo.svg)
 
 ## Table of Contents
 
@@ -43,6 +43,8 @@ Check out the live website [Click Here](https://d2d-admission-helper.netlify.app
 5. Click on Search.
 
 ## Screenshot
+
+![image](https://raw.githubusercontent.com/Harsh21Patel/D2D-Admission-Helper/main/img/Screenshot.png)
 
 ## Tools Used
 
